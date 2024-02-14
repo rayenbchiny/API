@@ -12,7 +12,7 @@ table {
 
 
 thead {
-  background-color: #3498db;
+  background-color: #19c71ce2;
   color: #fff;
 }
 
@@ -23,7 +23,7 @@ th, td {
 }
 
 tbody tr:hover {
-  background-color: #3498db;
+  background-color: #19c71ce2;
 }
 
 
@@ -40,6 +40,6 @@ table, th, td{
 }
 body{
   background: rgb(250,170,228);
-  background: linear-gradient(45deg, rgba(250,170,228,1) 0%, rgba(150,219,49,0.6558998599439776) 100%);
+  background: linear-gradient(45deg, rgb(185, 75, 216) 0%, rgba(221, 221, 16, 0.958) 100%);
   font-family: 'Times New Roman', Times, serif;
 }
